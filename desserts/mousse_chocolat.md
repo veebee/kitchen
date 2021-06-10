@@ -1,12 +1,12 @@
 # La VRAIE recette de la mousse au chocolat
 
 ## Ingrédients (4 portions)
-- 4 barres de chocolat fondant
+- 4 barres de chocolat fondant (environ 150g)
 - 4 oeufs
 - 1 pincée de sel
 
 ## Préparation
-Faire fondre le chocolat au bain marie, puis y ajouter les jaunes d'oeuf en fouettant rapidement.  
+Séparer les blancs des oeufs, puis faire fondre le chocolat au bain marie. Une fois le chocolat fondu, y ajouter les jaunes d'oeuf en fouettant rapidement.  
   
 Dans un saladier, battre les blancs d'oeuf en neige (avec la pincée de sel).  
   

@@ -22,7 +22,7 @@ Note 1: pour la farine, l'idéal est d'avoir un mix à teneur assez haute en pro
 Note 2: l'utilisation d'un film alimentaire permet à la pâte de ne pas sécher en surface. Toutefois, lorsqu'elle lève, il peut arriver qu'elle déborde en dehors du film ; il est donc préférable de disposer de la pâte filmée dans une boîte type Tupperware.
 
 ## Jour 2 - Tourage
-Ingrédiants:
+Ingrédients:
 - Le carré de pâte
 - 90g de beurre froid en tranches fines
 

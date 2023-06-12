@@ -29,7 +29,7 @@ Ingrédients:
 1. Préparer un carré de beurre: disposer les tranches de beurre sur une feuille de cuisson pour former un carré grossier. Replier la feuille pour enfermer le beurre dans une enveloppe carrée, puis aplanir à l'aide d'un rouleau à pâtisserie.
 2. Mettre le carré de beurre ainsi obtenu au frigo pour un minimum de 15 minutes.
 3. Farinez légèrement le plan de travail, puis abaissez la pâte levée pour former un carré d'arête deux fois plus longue que celle du carré de beurre.
-4. Disposez le carré de beurre au centre de la pâte, en diagonale, et rabattez la pâte par dessus comme une enveloppe
+4. Disposez le carré de beurre au centre de la pâte, en diagonale (i.e., les sommets du carré de beurre doivent se trouver au centre des arêtes du carré de pâte), et rabattez la pâte par dessus comme une enveloppe.
 5. Abaissez la pâte en tirant en longueur, puis effectuez un tour double.
 6. Filmez la pâte et remettez-la au frigo minimum 30 minutes (ou 15 minutes au congélateur).
 7. Remettez le pâton face à vous, tournez-le de 90° et effectuez un tour simple.

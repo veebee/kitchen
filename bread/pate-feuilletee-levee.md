@@ -9,7 +9,7 @@ Ingrédients:
 - 5g de sel
 - 25g de sucre en poudre
 - 5g de miel
-- 10g de levure (1 sachet dilué dans un petit verre d'eau tiède)
+- 10g de levure de boulanger (1 sachet dilué dans un petit verre d'eau tiède)
 - 60g de lait froid
 - 60g d'eau froide
 - 20g de beurre froid

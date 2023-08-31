@@ -4,7 +4,7 @@ Recette provenant d'altergusto.fr
 
 ## Ingrédients (pour environ 3 pizze de 30cm de diamètre)
 
-- 400g de farine T55
+- 400g de farine d'épeautre
 - 255g d'eau tiède
 - 1 (grosse) cuiller à café de levure de boulanger
 - 1 cuiller à café d'huile d'olive

@@ -3,8 +3,8 @@ Recette dérivée de celle disponible [ici](https://karine-cuisine.blogspot.com/
 
 ## Jour 1 - Détrempe
 Ingrédients:
-- 100g de farine d'épeautre
-- 50g de farine de blé (T65)
+- 50g de farine de froment
+- 100g de farine de blé (T65)
 - 100g de farine d'épeautre complète
 - 5g de sel
 - 25g de sucre en poudre
@@ -18,8 +18,8 @@ Ingrédients:
 2. Formez une boule avec la pâte et remettez-la dans le bol. Couvrez d'un film et laissez reposer pendant 30 minutes à température ambiante.
 3. Formez un carré avec la pâte, et enveloppez-le dans un film alimentaire. Mettez-le ensuite au réfrigérateur pendant minimum 24h.
 
-Note 1: pour la farine, l'idéal est d'avoir un mix à teneur assez haute en protéines (~12%), qui facilitera la cohésion de la pâte. Privilégier de bonnes farines au lieu des poudres industrielles...
-Note 2: l'utilisation d'un film alimentaire permet à la pâte de ne pas sécher en surface. Toutefois, lorsqu'elle lève, il peut arriver qu'elle déborde en dehors du film ; il est donc préférable de disposer de la pâte filmée dans une boîte type Tupperware.
+Note 1: pour la farine, l'idéal est d'avoir un mélange à teneur assez haute en protéines (~12%), qui facilitera la cohésion de la pâte. Privilégier de bonnes farines au lieu des poudres industrielles...
+Note 2: l'utilisation d'un film alimentaire permet à la pâte de ne pas sécher en surface. Toutefois, lorsqu'elle lève, il peut arriver qu'elle déborde en dehors du film ; il est donc préférable de disposer la pâte filmée dans une boîte étanche type Tupperware.
 
 ## Jour 2 - Tourage
 Ingrédients:
